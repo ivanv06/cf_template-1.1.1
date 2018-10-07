@@ -1,0 +1,9 @@
+
+.jumbotron {
+  background-image: url("file:///Users/ivanvelasco/Documents/Privat/CareerFoundry/cf_template-1.1.1/img/landscape.jpg");
+  background-size: cover;
+}
+
+.jumbotron p, h1{
+  color: white;
+}
